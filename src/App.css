@@ -1,0 +1,11 @@
+:root {
+  font-family: iransans;
+  color: rgb(255, 255, 255);
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: iransans;
+  color: rgb(252, 245, 245);
+}
